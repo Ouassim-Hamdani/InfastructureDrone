@@ -1,0 +1,5 @@
+djitellopy
+ultralytics
+pygame
+numpy
+cv2
